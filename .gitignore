@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# Editor settings
+.vscode/
+.idea/
+
+# Generated workbooks containing user data (and our safety copies/temp files)
+cases.xlsx
+cases.xlsx.bak
+cases.xlsx.tmp
+~$*.xlsx
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env

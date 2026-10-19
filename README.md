@@ -127,7 +127,3 @@ The `.gitignore` excludes virtual environments, logs, caches, editor settings an
 - Only the most recent backup (`cases.xlsx.bak`) is kept.
 - Whole-workbook rewrite per save: fine for thousands of cases, not for very large datasets.
 - Explanations are limited to 32,000 characters; control characters Excel cannot store are removed.
-
-## Possible future work
-
-Update/close cases, SAP Joule Studio integration, export/import, categories and priorities, multi-user support.

@@ -116,7 +116,3 @@ Tests use temporary directories, need no network or API key (the LLM path is tes
 - Only the most recent backup (`cases.xlsx.bak`) is kept.
 - The whole workbook is rewritten on each save: fine for thousands of cases, not for very large datasets.
 - Explanations are limited to 32,000 characters; control characters Excel cannot store are removed.
-
-## Possible future work
-
-Update/close cases, export/import, categories and priorities, multi-user support, SAP Joule Studio integration.
